@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kasa_sklepowa_zaliczenie", "kasa_sklepowa_zaliczenie\kasa_sklepowa_zaliczenie.csproj", "{64FE01E4-C882-41DA-9C7B-FE5EB1CBB606}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64FE01E4-C882-41DA-9C7B-FE5EB1CBB606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64FE01E4-C882-41DA-9C7B-FE5EB1CBB606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64FE01E4-C882-41DA-9C7B-FE5EB1CBB606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64FE01E4-C882-41DA-9C7B-FE5EB1CBB606}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD532B81-5B37-4934-9E21-2A8E437ECBB1}
+	EndGlobalSection
+EndGlobal
